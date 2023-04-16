@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigare tra Activity</string>
+    <string name="btn1">Bottone 1</string>
+    <string name="btn2">Bottone 2</string>
+    <string name="txtViewCiao_A2">Ciao</string>
+    <string name="txtViewIndietro_A2">Ora torna indietro</string>
+    <string name="txtViewPremi">Premi un bottone</string>
+</resources>
